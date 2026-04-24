@@ -1,4 +1,3 @@
-# Neural_Data_Science
 # Homework Portfolio
 University of Oklahoma | Fall 2025
 
