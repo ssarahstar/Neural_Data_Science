@@ -1,5 +1,5 @@
 # Neural_Data_Science
-# CS 4723/5723 Neural Data Science — Homework Portfolio
+# Homework Portfolio
 University of Oklahoma | Fall 2025
 
 A collection of neuroscience data analysis assignments covering EEG signal processing, 
